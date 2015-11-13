@@ -1,0 +1,31 @@
+h1, h2 {
+    width:800px;
+    background-color:gray;
+    color:white;
+    padding:20px 20px 20px 10px;
+}
+
+p {
+    width:800px;
+    background-color:lightgray;
+    padding:20px 20px 20px 10px;
+}
+
+h3 {
+    width:800px;
+    color:gray;
+    padding:20px 20px 20px 10px;
+}
+
+#nav a {
+    text-decoration:none;
+    color:black;
+    padding-right:20px;
+    transition:background-color 2s;
+}
+
+#nav a:hover {
+    background-color:#cc6633;
+    color:black;
+    transition:background-color 2s;
+}
